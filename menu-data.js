@@ -20,7 +20,7 @@ const menuData = {
       ]
     },
     {
-      "id": 3,
+      "id": 4,
       "nombre": "Javascript",
       "enlace": "https://github.com/Bryanbatista31",
       "submenus": [
@@ -32,7 +32,7 @@ const menuData = {
       ]
     },
     {
-      "id": 3,
+      "id": 5,
       "nombre": "Resúmenes",
       "enlace": "https://github.com/Bryanbatista31",
       "submenus": [
@@ -42,7 +42,14 @@ const menuData = {
         { "nombre": "MVC", "enlace": "https://bryanbatista31.github.io/proyectoFinal.github.io/pdfs/MVC.pdf" }
       ]
     },
-    { "id": 4, "nombre": "Servicio Web y Database", "enlace": "/contacto" }
+    { "id": 6,
+      "nombre": "Servicio Web y Database",
+      "enlace": "https://github.com/Bryanbatista31",
+      "submenus": [
+        { "nombre": "Servicio Web", "enlace": "https://bryanbatista31.github.io/servicioweb.github.io/" },
+        { "nombre": "Formulario con base de datos", "enlace": "https://bryanbatista31.github.io/formulariobd.github.io/" }
+      ]
+    }
   ]
 };
 
