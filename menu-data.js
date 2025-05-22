@@ -36,10 +36,10 @@ const menuData = {
       "nombre": "Resúmenes",
       "enlace": "https://github.com/Bryanbatista31",
       "submenus": [
-        { "nombre": "XML", "enlace": "" },
-        { "nombre": "JSON", "enlace": "" },
-        { "nombre": "AJAX", "enlace": "" },
-        { "nombre": "MVC", "enlace": "" }
+        { "nombre": "XML", "enlace": "https://bryanbatista31.github.io/proyectoFinal.github.io/pdfs/XML.pdf" },
+        { "nombre": "JSON", "enlace": "https://bryanbatista31.github.io/proyectoFinal.github.io/pdfs/JSON.pdf" },
+        { "nombre": "AJAX", "enlace": "https://bryanbatista31.github.io/proyectoFinal.github.io/pdfs/AJAX.pdf" },
+        { "nombre": "MVC", "enlace": "https://bryanbatista31.github.io/proyectoFinal.github.io/pdfs/MVC.pdf" }
       ]
     },
     { "id": 4, "nombre": "Servicio Web y Database", "enlace": "/contacto" }
